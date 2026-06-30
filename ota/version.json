@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "bin_url": "https://raw.githubusercontent.com/eldad-levi/Ofer6_Haoon_firmware/main/ota/OFER_6_Haaon_v1.3.1.ino.bin",
-  "size": 489008,
-  "sha256": "23cdd6f22cbc70a1f6685099774c4808078b9f083859c14be754735cd6438d2d"
+  "version": "1.3.3",
+  "bin_url": "https://raw.githubusercontent.com/eldad-levi/Ofer6_Haoon_firmware/main/ota/OFER_6_Haaon_v1.3.3.ino.bin",
+  "size": 488224,
+  "sha256": "21015dde1f0d7c449215d10ef725cdf3f66bcd84807a37e0fd663b48a74f534c"
 }
